@@ -237,4 +237,7 @@ footer p {
     h3 {
         padding-top: 3%;
     }
+    p  {
+        padding-right: 3px;
+    }
 }
